@@ -1,0 +1,9 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: "\5BF0\E1BF\848B\95C6\5474\7CA6", Verdana, Geneva, sans-serif, tahoma, Srial, helvetica, sans-serif;
+}
