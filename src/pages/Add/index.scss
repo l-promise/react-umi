@@ -1,0 +1,15 @@
+.add {
+  float: right;
+  margin-top: 50px;
+  width: 1000px;
+  background: pink;
+
+  :global {
+
+    .ant-input,
+    .ant-select-selection--single {
+      height: 35px;
+      width: 250px;
+    }
+  }
+}
